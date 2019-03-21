@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "coriben",
+    "password": "admin@COR665",
+    "database": "coriben",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "coriben",
+    "password": "admin@COR665",
+    "database": "coriben",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "coriben",
+    "password": "admin@COR665",
+    "database": "coriben",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
